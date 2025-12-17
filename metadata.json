@@ -1,0 +1,5 @@
+{
+  "name": "Mini Sora - Veo Video Creator",
+  "description": "Generate high-quality AI videos using Google's Veo model with a simple text prompt.",
+  "requestFramePermissions": []
+}
